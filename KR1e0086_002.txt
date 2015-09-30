@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左氏釋
-#+DATE: 2015-09-23 09:40:19
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:16:12.800044
+#+PROPERTY: ID KR1e0086
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1e0086_WYG_002-1a>¶
 欽定四庫全書¶
 　左氏釋巻下¶
@@ -254,4 +256,3 @@
 　¶
 　¶
 　左氏釋卷下¶
-
